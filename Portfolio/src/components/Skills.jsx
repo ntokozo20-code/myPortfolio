@@ -1,6 +1,5 @@
 import React from "react";
 
-<div id="Skills"></div>
 function Skills() {
   return (
   

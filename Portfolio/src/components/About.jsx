@@ -1,6 +1,5 @@
 import React from "react";
 
-<div id="About">#about</div>
 function About() {
     return (
   <div className="flex items-center justify-center h-screen bg-white">

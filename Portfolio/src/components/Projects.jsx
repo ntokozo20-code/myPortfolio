@@ -1,6 +1,6 @@
 import React from "react";
 
-<div id="Projects"></div>
+
 
 function Projects() {
   return (
@@ -17,22 +17,22 @@ function Projects() {
 
         {/*Project 1*/}
         <div className="border border-gray-300 p-6 rounded-2xl">
-          <h2 className="text-2xl font-bold mb-3 text-orange-400 ">Web App</h2>
-        <p className="text-gray-700 mb-4">A responsive web app built with React and Tailwind. Smooth UI and clean interactions.</p>
-          <img src="/images/Project1.j"alt="Project 1"className="w-full h-48 object-cover rounded-xl"/>
+          <h2 className="text-2xl font-bold mb-3 text-orange-400 ">Reinvented Resturant</h2>
+        <p className="text-gray-700 mb-4">A responsive web app built with Bootstrap and CSS. Smooth UI and clean interactions.</p>
+          <img src="Portfolio/src/components/images/Project1.png"alt="Project 1"className="w-full h-50 object-cover rounded-xl"/>
         </div>
 
         {/*Project 2*/}
         <div className="border border-gray-300 p-6 rounded-2xl">
-          <h2 className="text-2xl font-bold mb-3 text-orange-400">Mobile UI</h2>
-            <p className="text-gray-700 mb-4">A mobile interface concept showing clean layouts and animated-ready screens.</p>
-                <img src="/images/project2.jpg"alt="Project 2"className="w-full h-48 object-cover rounded-xl"/></div>
+          <h2 className="text-2xl font-bold mb-3 text-orange-400">Clock</h2>
+            <p className="text-gray-700 mb-4">Clock built with JavaScript and CSS (analog + digital, animated-ready).</p>
+                <img src="Portfolio/src/components/images/Project2.png"alt="Project 2"className="w-full h-50 object-cover rounded-xl"/></div>
 
         {/*Project 3*/}
         <div className="border border-gray-300 p-6 rounded-2xl">
-          <h2 className="text-2xl font-bold mb-3 text-orange-400">Dashboard</h2>
-          <p className="text-gray-700 mb-4">A dashboard design with charts, metrics and admin controls. Smooth and modern.</p>
-          <img src="/images/project3.jpg"alt="Project 3"className="w-full h-48 object-cover rounded-xl"/>
+          <h2 className="text-2xl font-bold mb-3 text-orange-400"> Business Landing Page</h2>
+          <p className="text-gray-700 mb-4">Landing page built with Bootstrap showcasing a smooth, modern website with charts admin controls.</p>
+          <img src="Portfolio/src/components/images/Project3.png"alt="Project 3"className="w-full h-50 object-cover rounded-xl"/>
         </div>
 
       </div>

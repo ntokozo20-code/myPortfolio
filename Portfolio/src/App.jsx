@@ -5,6 +5,8 @@ import About from "./components/About.jsx";
 import Skills from "./components/Skills.jsx";
 import Projects from "./components/Projects.jsx";
 import Contact from "./components/Contact.jsx";
+import { Project1, Project2, Project3 } from "./components/images/index.js";
+
 function App() {
     return(
         <div>

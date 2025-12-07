@@ -1,6 +1,5 @@
 import React from "react";
 
-<div id="Contact"></div>
 function Contact() {
   return (
     <div className="min-h-screen flex flex-col items-center bg-white px-10 py-16">
